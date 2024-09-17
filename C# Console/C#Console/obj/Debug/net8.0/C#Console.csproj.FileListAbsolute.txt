@@ -1,0 +1,14 @@
+H:\C# Console\C#Console\bin\Debug\net8.0\C#Console.exe
+H:\C# Console\C#Console\bin\Debug\net8.0\C#Console.deps.json
+H:\C# Console\C#Console\bin\Debug\net8.0\C#Console.runtimeconfig.json
+H:\C# Console\C#Console\bin\Debug\net8.0\C#Console.dll
+H:\C# Console\C#Console\bin\Debug\net8.0\C#Console.pdb
+H:\C# Console\C#Console\obj\Debug\net8.0\C#Console.GeneratedMSBuildEditorConfig.editorconfig
+H:\C# Console\C#Console\obj\Debug\net8.0\C#Console.AssemblyInfoInputs.cache
+H:\C# Console\C#Console\obj\Debug\net8.0\C#Console.AssemblyInfo.cs
+H:\C# Console\C#Console\obj\Debug\net8.0\C#Console.csproj.CoreCompileInputs.cache
+H:\C# Console\C#Console\obj\Debug\net8.0\C#Console.dll
+H:\C# Console\C#Console\obj\Debug\net8.0\refint\C#Console.dll
+H:\C# Console\C#Console\obj\Debug\net8.0\C#Console.pdb
+H:\C# Console\C#Console\obj\Debug\net8.0\C#Console.genruntimeconfig.cache
+H:\C# Console\C#Console\obj\Debug\net8.0\ref\C#Console.dll
