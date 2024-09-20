@@ -13,7 +13,7 @@ class Program
         //Return1.PritSquare(3);
     
     //Character.Player();
-        Cars.Drive(" ford",50);
+        Lists.List1();
         //Return1.CheckEvenOdd(100);
     }
 
